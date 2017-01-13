@@ -1,10 +1,11 @@
 # Personal dictionary
 
 ## A
-* **auch ein bisschen**: <ahref aucheinbisschen/> A little bit
+* **Arbeiten**: to Work
+* **auch ein bisschen**: <a name="aucheinbisschen"></a> A little bit
 
 ## F
-* **Familienname**: <ahref familienname/> Surname
+* **Familienname**: <a name="familienname"></a> Surname
 * **fließend**: Fluent
 * **Fremdsprache**: Foreign language
 
@@ -15,14 +16,18 @@
 ## K
 * **Kommen**: to Come
 
+## L
+* **Lehrer**: Teacher
+
 ## M
-* **Muttersprache**: <ahref muttersprache/> Mother tongue
+* **Mitarbeiter**: Employee
+* **Muttersprache**: <a name="muttersprache"></a> Mother tongue
 
 ## N
 * **Nationalität**: Nationality
 
 ## S
-* **Sprechen**: <a name="#sprechen"></a>to Talk / to Speak
+* **Sprechen**: <a name="sprechen"></a>to Talk / to Speak
 
 ## V
 * **Vorname**: Name
@@ -30,4 +35,5 @@
 ## W
 * **Wie**: Who
 * **Woher**: Where / From where
+* **Wohnen**: to Live
 
