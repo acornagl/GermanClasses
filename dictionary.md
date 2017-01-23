@@ -5,10 +5,12 @@
 * **Arbeiten**: to Work
 * **Anderen**: another / other
 * **Attraktiv**: Attractive
+* **Auch**: too / also / either
 * **auch ein bisschen**: <a name="aucheinbisschen"></a> A little bit
 
 ## B
 * **Beiden**: both
+* **Berg**: mountain
 * **Beruf**: occupation / work
 * **Besetzt**: occupied
 * **Briefträger**: post-man
@@ -30,6 +32,7 @@
 * **Familienname**: <a name="familienname"></a> Surname
 * **Familienstand**: Family status
 * **fließend**: Fluent
+* **Fluss**: River
 * **Fragewort**: Interrogative
 * **Frau**: Women (Mrs)
 * **Fremdsprache**: Foreign language
@@ -40,6 +43,7 @@
 ## G
 * **Gatte**: Husband/Consort
 * **Gattin**: Wife/Consort
+* **Gebirge**: Mountains
 * **Geboren**: to born
 * **Geburtstag**: birthday
 * **Geschieden**: Divorced
@@ -70,11 +74,16 @@
 * **kuehl**: cool (soft cold)
 
 ## L
+* **Land**: Country
 * **Ledig**: Single
 * **Lehrer**: Teacher
+* **Lerne**: to learn
+* **Liegt**: to lie / to be located
 
 ## M
+* **Meer**: Sea
 * **Mitarbeiter**: Employee
+* **Mittelgebirge**: secondary mountains
 * **Mutter**: Mother
 * **Muttersprache**: <a name="muttersprache"></a> Mother tongue
 
@@ -91,6 +100,7 @@
 * **Platz**: seat
 
 ## S
+* **See**: lake / see
 * **Sehen**: to watch
 * **Schlecht**: sick
 * **schon**: now / at the moment
@@ -99,6 +109,7 @@
 * **Sohn**: Son
 * **Sommer**: Summer
 * **Sprechen**: <a name="sprechen"></a>to Talk / to Speak
+* **Stadt**: City
 
 
 ## T
