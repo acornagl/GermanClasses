@@ -13,18 +13,24 @@
 * **Auch**: too / also / either
 * **auch ein bisschen**: <a name="aucheinbisschen"></a> A little bit
 * **Aus**: out / off
+* **Ausländisch**: foreign
 
 ## B
+* **Baum**: tree
 * **Beiden**: both
 * **Berg**: mountain
 * **Beruf**: occupation / work
 * **Besetzt**: occupied
+* **Beutel**: bag
 * **Blau**: blue
 * **Bleiben**: to stay / to remain
+* **Bleistift**: pencil
+* **Blume**: flower
 * **Braun**: brown
 * **Briefträger**: post-man
 * **Brötchen**: biscuits
 * **Bruder**: Brother
+* **Buch**: book
 * **Buchstabieren**: to spell
 * **Butter**: butter
 
@@ -62,18 +68,23 @@
 * **Frühstück**: breakfast
 
 ## G
+* **Gabel**: fork
 * **Gatte**: Husband/Consort
 * **Gattin**: Wife/Consort
 * **Gebirge**: Mountains
 * **Geboren**: to born
 * **Geburtstag**: birthday
+* **gegen**: about
 * **Gehen**: to go
 * **Gelb**: yellow
 * **genießen**: to enjoy / to like
+* **Gericht**: dish
 * **Geschieden**: Divorced
+* **Geschirr**: crockery (stoviglie)
 * **Geschwister**: brothers and systers
 * **Gesund**: Healty / well
 * **Getrennt**: Separate
+* **Gläsern**: glass
 * **Grad**: degree
 * **Grau**: grey
 * **Großeltern**: Grandparents
@@ -81,7 +92,10 @@
 
 ## H
 * **Haben**: to Have
+* **Händen**: hand
 * **hart**: hard / well
+* **Hauptgericht**: main dish
+* **Heft**: notepad
 * **heiss**: really hot
 * **Heißen**: to be Called
 * **Herbst**: Autumn
@@ -95,7 +109,9 @@
 * **hübsch**: nice / pretty
 
 ## J
+* **Jacke**: jacket / coat
 * **Jahreszeiten**: year seasons
+* **Jeder**: every
 * **Jetzt**: now
 
 ## K
@@ -112,17 +128,23 @@
 ## L
 * **Land**: Country
 * **Laut**: loud / noisy
+* **Leben**: life / to live
 * **Ledig**: Single
 * **Lehrer**: Teacher
 * **Lerne**: to learn
 * **Leute**: people
+* **Lieben**: to love
 * **Liegt**: to lie / to be located
+* **Löffel**: spoon
 
 ## M
 * **Mahlzeiten**: Meal
+* **manchmal**: sometimes
 * **Mandarinen**: mandarin
 * **Marmelade**: marmelade
+* **Mauer**: wall
 * **Meer**: Sea
+* **Messer**: knife
 * **Milch**: Milk
 * **Mitarbeiter**: Employee
 * **Mittagessen**: Lunch
@@ -132,10 +154,13 @@
 
 ## N
 * **Nationalität**: Nationality
+* **Nachspeise**: dessert
 * **naechsten**: close (to) / near
 * **Nebel**: fog
 * **Neblig**: misty / foggy
+* **Nehmen**: to take
 * **Noch**: Any
+* **normalerweise**: usually
 
 ## O
 * **Obst**: Fruit
@@ -149,7 +174,9 @@
 
 ## R
 * **Regnen**: to rain
+* **Rose**: rose
 * **Rot**: red
+* **Rucksack**: backpack
 
 ## S
 * **Saft**: Juice
@@ -173,15 +200,22 @@
 * **Spielen**: to play
 * **Spiegelei**: fried egg
 * **Sprechen**: <a name="sprechen"></a>to Talk / to Speak
+* **Stäbchen**: chopstick
 * **Stadt**: City
+* **Stift**: pen
+* **Stuhl**: chair
 
 
 ## T
 * **Tante**: aunt
+* **Tassen**: cup
 * **Tee**: tea
+* **Teller**: dish / plate
+* **Tisch**: table
 * **Tochter**: Daughter
 * **Treffen**: meeting
 * **Trink**: to Drink
+* **Trübe**: cloudy
 * **Typisch**: typical
 
 ## U
@@ -195,8 +229,10 @@
 * **Viel**: much
 * **vob ... bis**: from ... to
 * **Vorname**: Name
+* **Vorspeise**: starter
 
 ## W
+* **Wald**: Forest
 * **Wann**: When
 * **Warm**: Hot
 * **Was**: What
@@ -205,10 +241,10 @@
 * **Weiß**: white
 * **Welcher**: Which
 * **Wer**: Who
-* **Werktage**: Working dayWürzen
+* **Werktage**: Working day
 * **Wetter**: Wheather 
 * **Wie**: Who
-* **wieder**: againoder
+* **wieder**: again / oder
 * **Winter**: Winter
 * **Wissenschaftlicher**: Researcher
 * **Wo**: Where
@@ -217,12 +253,14 @@
 * **Wochenende**: weekend
 * **Wohnen**: to Live
 * **Wohnort**: place of residence
+* **Wolke**: cloud
 * **Wünsche**: to wish
 * **Wurst**: sausage
 * **Würzen**: to flavor (to like)
 
 ## Z
 * **Zeit**: time / period
+* **Zeitung**: newspaper
 * **Zitrone**: lemon
 * **Zucker**: Sugar
 * **zuhause**: at home
